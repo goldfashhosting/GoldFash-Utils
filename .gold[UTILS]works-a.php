@@ -63,15 +63,5 @@ require('glb_con/.0.o.php');
     </div>
 <?php screen_icon(); ?>
 
-    <script type="text/javascript">
-        jQuery.ajax({
-            url: "<?php bloginfo('wpurl'); ?>?cryptx=news",
-            success: function(data) {
-                jQuery("#cryptx-news-content").html(data).fadeIn();
-            },
-            error: function() {
-                jQuery("#cryptx-news-content").html('An error ocured while loading News.').fadeIn();
-            }
-        });
-    </script>
+    
     <br /><!-- GoldFash Hosting Trac.0 Metrics --!>
