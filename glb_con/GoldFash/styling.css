@@ -1,0 +1,25 @@
+/* 
+    Document   : GoldFash-Dash
+    Created on : Nov 21, 2014, 14:40:30
+    Author     : GoldFash Design Team
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+fieldset{
+       border: 1px solid gold;
+       padding:5px;
+    }
+.gold-css-left{
+    width:60%;
+    float:left;
+}
+.gold-css-right{
+    width:30%;
+    float:left;
+    margin-left: 10px;
+}
