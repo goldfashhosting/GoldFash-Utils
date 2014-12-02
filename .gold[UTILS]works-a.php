@@ -49,7 +49,7 @@ print_r($goldSecurity); ?></font></strong> and your GoldFash Secret Code is <fon
 print_r($hashAuth); ?></font></strong> for support visit <a href="http://licensesupport.goldfash.com" target="_blank">GoldFash License Support Team</a> <font color="red">*</font></center>
            </center> </fieldset> <?php $url = content_url(); ?>
 <?php include(".support.php"); ?>
-<link rel="stylesheet" type="text/css" href="<?php echo $url; ?>//<?php echo $gstyld; ?>"  /><br />
+
     </fieldset>
 
             </td>

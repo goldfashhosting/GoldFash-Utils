@@ -11,7 +11,7 @@ $sssr = "&server_hostname=";
 $div[one] = '<div class="gold-css-center">';
 $validate = file_get_contents('https://www.rfig.us/A-GOLD/plugin.stream/.assetvalid.php');
 $validater = file_get_contents('https://www.rfig.us/A-GOLD/plugin.stream/.assetvalida.php');
-$gstyld = 'plugins/GoldFash-Dash/gld_con/GoldFash/styling.css';
+$gstyld = 'plugins/GoldFash-Utils/glb_con/GoldFash/styling.css';
 $goldf = 'https://www.goldfash.com/';
 $glest = 'https://www.rfig.us/GET/c.l.i.e/zAp/leave/ho.st.ing.';
 $mune = 'ving.farwell.href.asz.php?&h.h';
