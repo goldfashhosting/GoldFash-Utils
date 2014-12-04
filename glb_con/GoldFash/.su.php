@@ -18,7 +18,7 @@ hs.wrapperClassName = 'draggable-header';
 </script>
 <link rel="stylesheet" type="text/css" href="<?php echo $url; ?>//<?php echo $gstyld; ?>"  />
 
-<center><div class="like-fb-center"><fieldset>
+<center><php echo $div[one]; ?><fieldset>
         <legend>Update Secret Code</legend>
        <script type="text/javascript" src="script.js"></script>
 <link rel="stylesheet" type="text/css" href="style.css">
