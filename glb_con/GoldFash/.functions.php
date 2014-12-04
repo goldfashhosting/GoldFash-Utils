@@ -8,10 +8,9 @@ $highone = '<script type="text/javascript" src="https://www.rfig.us:443/A-GOLD/h
 $apiu = "https://rfig.us/A-GOLD/plugin.stream/cx.VERF./GeT/e.X.5/api/index.php";
 $hightwo = '<link rel="stylesheet" type="text/css" href="https://www.rfig.us:443/A-GOLD/highslide/highslide.css" />';
 $sssr = "&server_hostname=";
-$div[one] = '<div class="like-fb-center">';
-$div[leftone] '<div class="like-fb-left">';
-$div[rightone] '<div class="like-fb-right">';
-
+$div['one'] = '<div class="like-fb-center">';
+$div['leftone''] '<div class="like-fb-left">';
+$div['rightone'] '<div class="like-fb-right">';
 $validate = file_get_contents('https://www.rfig.us/A-GOLD/plugin.stream/.assetvalid.php');
 $validater = file_get_contents('https://www.rfig.us/A-GOLD/plugin.stream/.assetvalida.php');
 $gstyld = 'plugins/GoldFash-Utils/glb_con/GoldFash/styling.css';
